@@ -1,0 +1,9 @@
+.home {
+  h1,
+  p {
+    background-color: red;
+    &.yellow {
+      background-color: yellow;
+    }
+  }
+}
